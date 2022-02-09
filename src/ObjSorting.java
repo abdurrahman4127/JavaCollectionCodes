@@ -14,7 +14,7 @@ class Students {
     }
 }
 
-public class Sorting {
+public class ObjSorting {
     public static void main(String[] args)
     {
         try {

@@ -18,7 +18,7 @@ public class Intro {
 //        System.out.println(s1);
 
         //to remove :
-        list.remove(2); // now it's : 0, 1, 3 (not 2); at 2nd index, it's is "String 3; comes one shift right
+        list.remove(2); // now it's : 0, 1, 3 (not 2); at 2nd index, it's "String 3; comes one shift right
 
         //to add
         list.add(1,"been added; not replaced or overridden"); //moving the items to one shift right
